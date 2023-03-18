@@ -1,0 +1,72 @@
+{
+    "name": "My Lesson Store",
+    "short_name": "Lessonstore",
+    "description": "My online Lesson store",
+    "icons": [
+    {
+    "src": "images/xmaths.png",
+    "sizes": "200x200",
+    "type": "image/png"
+    },
+    
+    {
+    "src": "images/xastro.png",
+    "sizes": "262x192",
+    "type": "image/png"
+    },
+
+    {
+    "src": "images/xbio.png",
+    "sizes": "256x256",
+    "type": "image/png"
+    },
+
+    {
+    "src": "images/xemath.png",
+    "sizes": "225x225",
+    "type": "image/png"
+    },
+
+    {
+        "src": "images/xsport1.png",
+        "sizes": "225x225",
+        "type": "image/png"
+        },
+
+    {
+        "src": "images/xpsy.png",
+        "sizes": "225x225",
+        "type": "image/png"
+        },
+
+    {
+        "src": "images/xphys.JPEG",
+        "sizes": "256x256",
+        "type": "image/jpeg"
+        },
+
+    {
+        "src": "images/xit.jpeg",
+        "sizes": "256x256",
+        "type": "image/jpeg"
+        },
+
+    {
+        "src": "images/xfoot.png",
+        "sizes": "225x225",
+        "type": "image/png"
+        },
+    
+    {
+    "src": "images/xeng.png",
+    "sizes": "225x225",
+    "type": "image/png"
+    }
+
+    
+
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#260bca"
+    }
